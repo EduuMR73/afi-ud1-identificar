@@ -1,0 +1,18 @@
+# Comparativa de Normas Forenses
+
+| Aspecto a analizar | RFC 3227 | NIST SP 800-86 (Guía) | Manual de buenas prácticas ENFSI |
+| :--- | :--- | :--- | :--- |
+| **¿Qué entiende por identificar?** | Determinar qué datos volátiles existen en un sistema que está encendido antes de proceder a la recolección, entendiendo el sistema como un elemento vivo. | Comprender el alcance completo del incidente descubriendo todas las posibles fuentes de datos; implica mirar más allá del equipo físico que se tiene delante. | Realizar una evaluación previa y un reconocimiento seguro de la escena antes y durante la llegada, evaluando tanto la evidencia digital como su entorno físico. |
+| **Fuentes de evidencia que menciona** | Registros, memoria caché, tablas de enrutamiento, caché ARP, tablas de procesos, estadísticas del núcleo, memoria (RAM), sistemas de archivos temporales, discos y soportes físicos. | Equipos locales (PCs, servidores), dispositivos de red (routers, cortafuegos, switches), almacenamiento extraíble, periféricos, servicios en la nube, logs y copias de seguridad (backups). | Ordenadores, móviles, dispositivos de almacenamiento, pero también elementos físicos del entorno: contraseñas anotadas (post-its), manuales, cargadores, cables y el estado de las conexiones. |
+| **Criterio para decidir qué se protege primero** | **Orden de volatilidad:** Establece que se debe proteger y recolectar primero la información más volátil (ej. RAM, caché) y dejar para el final la menos volátil (ej. discos duros). | **Valor y riesgo:** Prioriza según el valor de la evidencia para el caso, el esfuerzo necesario para adquirirla y el riesgo de que se altere, caduque o sea sobrescrita (ej. logs que rotan). | **Aislamiento y entorno:** Prioriza el aislamiento inmediato para evitar la destrucción remota de pruebas (ej. desconectar de la red) y la protección de los dispositivos frente a manipulaciones accidentales. |
+
+## Conclusiones: Similitudes y Diferencias
+
+**En qué coinciden:**
+Las tres normas coinciden en un principio fundamental: la identificación es una fase preventiva vital y las acciones del investigador no deben alterar las evidencias originales (o alterar lo mínimo indispensable). Las tres reconocen la extrema fragilidad de los datos digitales, advirtiendo que actuar sin identificar previamente qué hay en la escena provoca la pérdida de información (ya sea porque un equipo se apaga, porque los registros se sobrescriben o porque alguien altera la escena de forma remota).
+
+**En qué se diferencian:**
+Sus diferencias radican en el enfoque y el contexto en el que se aplican, lo cual las hace complementarias:
+* **RFC 3227** es puramente técnica y microscópica. Se centra casi en exclusiva en el sistema operativo encendido y dicta un orden estricto de recolección basado matemáticamente en la volatilidad temporal de los datos.
+* **NIST SP 800-86** tiene un enfoque macroscópico, corporativo y orientado a la respuesta a incidentes. Obliga al investigador a pensar en la topología de la empresa: la red, los servidores, la nube, los cortafuegos y los ciclos de las copias de seguridad.
+* **ENFSI** tiene un enfoque policial y pericial sobre la "escena del crimen". Da mucha importancia a la preparación antes de llegar, la seguridad del perímetro, el aislamiento de los equipos (para evitar borrados remotos) y la recolección de pistas del mundo físico que complementan lo digital (como apuntes con contraseñas o el calor de un dispositivo).
