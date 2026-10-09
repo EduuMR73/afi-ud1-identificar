@@ -68,7 +68,7 @@ Hoy es día 20. El día 14, cuando Marta se quedó hasta tarde, es el hecho sosp
 4. **Dispositivos expuestos a alteración remota:** iPhone de empresa, portátil y cuentas de Marta. Pueden ser modificados o borrados desde la nube o desde otro dispositivo. Aislar el iPhone lleva dos minutos, así que lo hago a la vez que las llamadas y no espera al portátil (L7).
 5. **Soportes persistentes:** disco de 2 TB, pendrive de Javier, servidor de ficheros y USB desaparecido. Mientras nadie los toque sus datos no caducan. El riesgo es la manipulación, no el tiempo, así que basta con custodiarlos hoy y adquirirlos con calma. El USB desaparecido es la excepción: no puedo custodiarlo porque no sé dónde está y podría perderse u ocultarse, así que se busca hoy (L6).
 
-**Por qué la RAM va tercera y no primera.** El RFC 3227 ordena de lo más a lo menos volátil dentro de un mismo equipo, pero aquí hay varias fuentes en varias manos. Los puntos 1 y 2 dependen de Bahía y se lanzan por teléfono, mientras yo trabajo sobre el portátil. Son acciones en paralelo, como permite el RFC 3227 §2 para equipos distintos. Dentro de cada equipo concreto sí voy paso a paso, de lo más a lo menos volátil.
+**Por qué la RAM va tercera y no primera.** El RFC 3227 ordena de lo más a lo menos volátil dentro de un mismo equipo, pero aquí hay varias fuentes en varias manos. Los puntos 1 y 2 dependen sobre todo de Bahía (la cámara, de Elena) y se lanzan por teléfono o por escrito, mientras yo trabajo sobre el portátil. Son acciones en paralelo, como permite el RFC 3227 §2 para equipos distintos. Dentro de cada equipo concreto sí voy paso a paso, de lo más a lo menos volátil.
 
 ## 3. Las medidas inmediatas
 
