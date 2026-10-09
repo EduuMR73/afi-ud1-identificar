@@ -128,9 +128,9 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 8 | Aislar el portátil por MAC y cable de red, sin apagar el router, y preguntar por borrado remoto | L20 | RFC 3227 §2.2; NIST SP 800-86 §3.1.3 |
 | 9 | Obtener las claves de BitLocker antes de apagar o desmontar nada | L14 | RFC 3227 §2.2; NIST SP 800-86 §3.2 |
 | 10 | Aislar el iPhone de empresa y mantenerlo cargado | L7 | ENFSI §8.2; NIST SP 800-86 §2.1 y §3.1.3 |
-| 11 | Adquirir disco y pendrive con copia bit a bit y bloqueador de escritura | L22, L24 | RFC 3227 §2.1; NIST SP 800-86 §4.2.1 |
+| 11 | Adquirir disco y pendrive con copia bit a bit y bloqueador de escritura | L22, L24 | RFC 3227 §2 y §2.1; NIST SP 800-86 §4.2.1 y §4.2.2 |
 | 12 | Pedir el pendrive de Javier con su consentimiento y acta | L1, L6 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
-| 13 | Buscar el USB que falta sin interrogar a Marta | L6 | ENFSI §9.2; NIST SP 800-86 §3.1.1 |
+| 13 | Buscar el USB que falta sin interrogar a Marta | L6 | ENFSI §9.2 y §11.2; NIST SP 800-86 §3.1.1 |
 | 14 | No tocar el móvil personal de Marta y pedir entrega voluntaria | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
 | 15 | Pedir a la administración la conservación de la cámara, sin acceder | L1, L11 | NIST SP 800-86 §3.1.1 |
 | 16 | No explorar la sesión de Outlook ajena | L1, L5 | RFC 3227 §2.3; ENFSI §9.2 |
