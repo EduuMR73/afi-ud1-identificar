@@ -29,6 +29,7 @@ Inventario por ubicación, con quién controla cada fuente, porque eso condicion
 | :--- | :--- | :--- |
 | Pendrive original de Marta, que "no le funcionaba" | Si no funcionaba, ¿por qué pidió otro? Su paradero es desconocido | Por confirmar |
 | Equipos de Marta en casa (teletrabaja los viernes) | Posibles copias | Fuera del control de la empresa |
+| Propuesta del estudio de Sevilla que el cliente enseñó a Elena (si Elena conserva copia, captura o correo) | La versión del render que circula, con su fecha y sus metadatos si existen | Cadena hotelera y Elena |
 | Personas: Marta, Javier, Elena, la compañera de Outlook y el técnico de Bahía | Su testimonio, qué vieron y qué hicieron | No aplica |
 
 ### Infraestructura local, oculta
@@ -99,6 +100,7 @@ Cada actuación de Bahía Sistemas se hace con un parte firmado que recoja quié
 - **Sobremesa compartido.** Fotografío la sesión de Outlook ajena sin tocar nada. Después Elena pide a su titular que la cierre, porque su correo está expuesto (L4).
 - **Marta.** Elena le explica con educación que hoy no podrá usar el portátil ni las cuentas de la empresa porque se están revisando los equipos, sin entrar en más detalles. Puede irse a casa y llevarse su bolso y su móvil. Anoto hora, qué dice y qué hace (L8). No se le pide ni se le revisa nada personal.
 - **Testimonios.** Dejo por escrito, con fecha y hora, lo que cuentan Javier (el día 14 y el pendrive), la compañera del Outlook y el técnico de Bahía, y qué vieron y qué hicieron (L8).
+- **Propuesta de Sevilla.** Pido a Elena que conserve tal cual lo que haya recibido o visto de esa propuesta (fichero, captura o correo, si existe), sin reenviarlo ni editarlo, y que anote cuándo y cómo se lo enseñó el cliente. No contacto con el estudio de Sevilla (L11, L15).
 
 ## 4. Los límites
 
@@ -147,3 +149,4 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 26 | Pedir al router y al punto de acceso el registro de equipos conectados | L9, L13 | RFC 3227 §2.1; NIST SP 800-86 §3.1.1 y §6.2.1 |
 | 27 | Confirmar por escrito con Elena qué cubre la autorización y tocar los dispositivos personales solo con consentimiento o mandato | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
 | 28 | No desbloquear ni leer el iPhone de empresa: aislarlo ahora y examinarlo después con autorización | L1, L7 | RFC 3227 §2.3; ENFSI §8.2; NIST SP 800-86 §3.1.1 y §3.1.3 |
+| 29 | Conservar tal cual lo que Elena haya recibido de la propuesta de Sevilla, sin reenviarlo ni editarlo | L11, L15 | NIST SP 800-86 §3.1.1 y §3.1.2; RFC 3227 §3.2 |
