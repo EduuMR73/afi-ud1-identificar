@@ -1,6 +1,6 @@
 # Plan de Identificación y Preservación - Caso Almadraba
 
-Elena, son las 10:45 y esto es lo que voy a hacer. Hasta que sepamos qué ocurrió, todo lo que hay en la oficina es evidencia potencial, así que lo primero es no perder nada y no alterar nada. A continuación explico qué hay que proteger, qué se pierde si esperamos y qué necesito pedir a otras personas. Las referencias L1, L2... remiten a los puntos de mi [lista de comprobación](lista-comprobacion.md).
+Elena, son las 10:45 y esto es lo que voy a hacer. Hasta que sepamos qué ocurrió, todo lo que hay en la oficina es evidencia potencial, así que lo primero es no perder nada y no alterar nada. A continuación explico qué hay que proteger, qué se pierde si esperamos y qué necesito pedir a otras personas. Antes de actuar confirmo por escrito con Elena qué equipos, cuentas y personas cubre la autorización que me ha firmado (L1); los dispositivos personales solo los toco con consentimiento o mandato. Las referencias L1, L2... remiten a los puntos de mi [lista de comprobación](lista-comprobacion.md).
 
 ## 1. Las fuentes de evidencia
 
@@ -104,7 +104,8 @@ Cada actuación de Bahía Sistemas se hace con un parte firmado que recoja quié
 
 Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias legales se contrastarán con asesoría jurídica antes de actuar.
 
-- **Móvil personal de Marta.** *No lo reviso ni lo retiro.* Afectaría a su intimidad y al secreto de las comunicaciones (art. 18 CE), invalidaría la prueba y podría constituir delito (art. 197 CP). *Alternativa:* pedirle por escrito, con Elena, que lo entregue voluntariamente. Si se niega, se documenta y se deja para una posible actuación judicial.
+- **Móvil personal de Marta.** *No lo reviso ni lo retiro.* Afectaría a su intimidad y al secreto de las comunicaciones (art. 18 CE), podría invalidar la prueba y constituir delito (art. 197 CP). *Alternativa:* pedirle por escrito, con Elena, que lo entregue voluntariamente. Si se niega, se documenta y se deja para una posible actuación judicial.
+- **iPhone de empresa.** *No lo desbloqueo ni leo los WhatsApp.* Contiene conversaciones con clientes, que son terceros. *Alternativa:* aislarlo y preservarlo ahora, y examinarlo después con autorización de Elena y asesoría jurídica.
 - **Contenido del correo y de OneDrive de Marta.** *Preservo pero no leo.* Acceder al contenido exige que la política de uso de medios digitales de la empresa lo permita (art. 87 LOPDGDD). *Alternativa:* retención hoy, y lectura solo con autorización de Elena y asesoría jurídica.
 - **Cámara del pasillo.** *No accedo ni pido el grabador directamente.* Pertenece a la comunidad, y su acceso y tratamiento están sujetos a la normativa de videovigilancia (art. 22 LOPDGDD). *Alternativa:* petición formal de conservación a la administración y, si hace falta, requerimiento por vía judicial o policial.
 - **Portátil Dell.** *No lo apago, no lo desmonto ni fuerzo el desbloqueo todavía.* Apagarlo pierde la RAM y el volumen descifrado, y forzar el acceso podría alterar la evidencia. *Alternativa:* acceso formal, o aislarlo y escalar a un perito. Con las claves de BitLocker en el portal de Microsoft, el disco se podrá adquirir después sin problema.
