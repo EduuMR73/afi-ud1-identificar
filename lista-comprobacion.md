@@ -8,7 +8,7 @@ Herramienta de trabajo para una escena real de identificación y preservación. 
 - [ ] **3.** Asegurar el perímetro físico, limitar el acceso a la zona y anotar quién tiene acceso a cada equipo. *(ENFSI §8.2; NIST SP 800-86 §3.1.3)*
 - [ ] **4.** Fotografiar y documentar la escena completa antes de mover nada: pantallas, cables, periféricos y sesiones abiertas. *(NIST SP 800-86 §3.1.2; ENFSI §8.2)*
 - [ ] **5.** Observar el estado de cada equipo (encendido, apagado, bloqueado, salvapantallas) sin interactuar con él. *(NIST SP 800-86 §3.1.2; ENFSI §9.2)*
-- [ ] **6.** Localizar dispositivos y soportes a la vista (móviles, discos externos, USB, impresoras) y evidencias físicas asociadas (notas con contraseñas, agendas, manuales). *(NIST SP 800-86 §3.1.1; ENFSI §9.2)*
+- [ ] **6.** Localizar dispositivos y soportes a la vista (móviles, discos externos, USB, impresoras) y evidencias físicas asociadas (notas con contraseñas, agendas, manuales). *(NIST SP 800-86 §3.1.1; ENFSI §9.2 y §11.2)*
 - [ ] **7.** Aislar de la red los móviles de la empresa (bolsa Faraday o modo avión) para evitar borrados remotos, y mantenerlos cargados. Los personales, solo con consentimiento (punto 1). *(ENFSI §8.2; NIST SP 800-86 §2.1 y §3.1.3)*
 - [ ] **8.** Anotar quién está presente, qué hace y qué observa, e impedir que la persona investigada use los equipos. *(RFC 3227 §3.2; NIST SP 800-86 §3.1.3)*
 
