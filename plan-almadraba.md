@@ -53,7 +53,7 @@ Queda fuera del alcance contactar con Lucía Navarro o con el estudio de Sevilla
 
 ## 2. La prioridad
 
-Hoy es día 20 y el incidente fue el día 14. Ordeno las fuentes por lo que antes se pierde, no solo por la memoria RAM: sigo el criterio de valor probable, volatilidad y esfuerzo (L16), y considero también lo que caduca con el tiempo (L17).
+Hoy es día 20. El día 14, cuando Marta se quedó hasta tarde, es el hecho sospechoso que conocemos, pero el render se presentó hace dos semanas y la ventana de interés empieza antes, así que pido todo lo que siga existiendo y no solo lo del día 14. Ordeno las fuentes por lo que antes se pierde, no solo por la memoria RAM: sigo el criterio de valor probable, volatilidad y esfuerzo (L16), y considero también lo que caduca con el tiempo (L17).
 
 **Paso previo, de unos minutos:** fotografiar y anotar la escena. No cambia nada y fija el estado inicial. Después, por este orden:
 
