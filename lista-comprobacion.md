@@ -22,7 +22,7 @@ Herramienta de trabajo para una escena real de identificación y preservación. 
 
 ## 3. Al decidir qué se adquiere y en qué orden
 - [ ] **15.** Decidir, con la gerencia, si la evidencia debe poder usarse en un proceso legal o disciplinario. Ante la duda, preservar. *(NIST SP 800-86 §3.1.2; RFC 3227 §3.2)*
-- [ ] **16.** Valorar cada fuente por su valor probable, su volatilidad y el esfuerzo necesario para adquirirla, y dejar por escrito el orden resultante. *(NIST SP 800-86 §3.1.2)*
+- [ ] **16.** Valorar cada fuente por su valor probable, su volatilidad y el esfuerzo necesario para adquirirla, y dejar por escrito el orden resultante. Repartir el trabajo en paralelo entre sistemas distintos, pero paso a paso dentro de cada uno. *(NIST SP 800-86 §3.1.2; RFC 3227 §2)*
 - [ ] **17.** Dar prioridad a lo que se pierde con el paso del tiempo aunque no sea memoria: registros que se sobrescriben, copias que rotan, grabaciones que caducan. *(NIST SP 800-86 §3.1.2)*
 - [ ] **18.** No apagar ni reiniciar ningún equipo encendido hasta terminar la recogida de datos volátiles. *(RFC 3227 §2.2)*
 - [ ] **19.** En cada equipo encendido, capturar primero el estado de red: conexiones activas, caché ARP y tabla de rutas. *(RFC 3227 §2.1; NIST SP 800-86 §5.2.1)*
