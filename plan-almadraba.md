@@ -58,14 +58,14 @@ Hoy es día 20. El día 14, cuando Marta se quedó hasta tarde, es el hecho sosp
 
 **Paso previo, de unos minutos:** fotografiar y anotar la escena. No cambia nada y fija el estado inicial. Después, por este orden:
 
-1. **Registros que se sobrescriben con el tiempo:** cortafuegos y VPN, historial de la impresora, grabaciones de la cámara y registros de auditoría de Microsoft 365.
+1. **Registros que se sobrescriben con el tiempo:** cortafuegos y VPN, historial de la impresora, grabaciones de la cámara, registros de auditoría de Microsoft 365 y, si existen, los registros de acceso del servidor de ficheros.
    - El cortafuegos aguanta "una semana o así" y han pasado seis días, así que los del día 14 pueden desaparecer en horas.
    - El historial de la impresora se sobrescribe con el uso normal, y el sobremesa compartido lo usa todo el equipo.
    - Las cámaras suelen conservar poco tiempo y la nube tiene plazos de retención limitados. En ambos casos hay que confirmar el plazo.
-2. **Copias del NAS.** Con 14 copias nocturnas, la del día 14 sobrevive unos días más, pero cada noche se descarta la más antigua. Esas copias son el "antes" con el que comparar qué cambió, así que cada noche que pase se pierde una referencia.
+2. **Copias del NAS.** Con 14 copias nocturnas, la del día 14 sobrevive unos días más, pero cada noche se descarta la más antigua, y esta noche cae aproximadamente la que ronda la fecha en que se presentó el render (hace unas dos semanas), así que la referencia del antes está al límite. Esas copias son el "antes" con el que comparar qué cambió, así que cada noche que pase se pierde una referencia.
 3. **Memoria y estado del portátil encendido.** La RAM, las conexiones activas y el volumen ya descifrado se pierden si se apaga, se reinicia, se agota la batería o alguien lo manipula.
 4. **Dispositivos expuestos a alteración remota:** iPhone de empresa, portátil y cuentas de Marta. Pueden ser modificados o borrados desde la nube o desde otro dispositivo.
-5. **Soportes persistentes:** disco de 2 TB, pendrive de Javier, servidor de ficheros y USB desaparecido. Mientras nadie los toque sus datos no caducan. El riesgo es la manipulación, no el tiempo, así que basta con custodiarlos hoy y adquirirlos con calma.
+5. **Soportes persistentes:** disco de 2 TB, pendrive de Javier, servidor de ficheros y USB desaparecido. Mientras nadie los toque sus datos no caducan. El riesgo es la manipulación, no el tiempo, así que basta con custodiarlos hoy y adquirirlos con calma. El USB desaparecido es la excepción: no puedo custodiarlo porque no sé dónde está y podría perderse u ocultarse, así que se busca hoy (L6).
 
 **Por qué la RAM va tercera y no primera.** El RFC 3227 ordena de lo más a lo menos volátil dentro de un mismo equipo, pero aquí hay varias fuentes en varias manos. Los puntos 1 y 2 dependen de Bahía y se lanzan por teléfono, mientras yo trabajo sobre el portátil. Son acciones en paralelo, como permite el RFC 3227 §2 para equipos distintos. Dentro de cada equipo concreto sí voy paso a paso, de lo más a lo menos volátil.
 
