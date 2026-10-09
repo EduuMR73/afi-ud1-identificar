@@ -15,9 +15,9 @@ Las tres normas coinciden en que la identificación es una fase preventiva y en 
 Sus diferencias vienen del enfoque y del contexto en que se aplican, y por eso son complementarias:
 * **RFC 3227** se centra en la recogida técnica sobre un sistema concreto. Propone un orden estricto basado en la volatilidad de los datos y da mucha importancia a la documentación, la privacidad y la cadena de custodia (§2.3, §3.2, §4.1).
 * **NIST SP 800-86** tiene un enfoque más amplio, orientado a la respuesta a incidentes. Invita a pensar en toda la organización (red, servidores, copias de seguridad, terceros) y a elaborar un plan de adquisición que pondere valor, volatilidad y esfuerzo.
-* **ENFSI** tiene un enfoque pericial sobre la escena. Da peso a la preparación antes de llegar, al control del perímetro, al aislamiento de los equipos para evitar borrados remotos y a las pistas del mundo físico que complementan lo digital, como las notas con contraseñas.
+* **ENFSI** tiene un enfoque pericial sobre la escena. Da peso a la preparación antes de llegar, a mantener alejadas de los equipos a las personas implicadas, al aislamiento de los equipos para evitar el acceso remoto y a las fuentes que complementan lo digital, como las notas manuscritas y los documentos impresos.
 
 **Qué se escapa si usas una sola norma:**
 * Con solo el RFC 3227 recogerías bien un equipo encendido, pero su propio orden de volatilidad sitúa los registros remotos después del disco. NIST §3.1.2 advierte que también los datos no volátiles pueden ser dinámicos, por ejemplo los registros que se sobrescriben. El orden real de trabajo debe combinar ambas visiones.
 * Con solo NIST tendrías el mapa de fuentes y la prioridad, pero el detalle de qué capturar primero dentro de cada equipo lo da el RFC.
-* Con solo ENFSI cuidarías la escena física y el aislamiento, pero te faltaría el criterio de volatilidad y la visión de la infraestructura (red, copias, registros) que aportan las otras dos.
+* Con solo ENFSI cuidarías la escena física y el aislamiento, pero te faltaría un orden concreto de volatilidad como el del RFC 3227 §2.1 (ENFSI solo menciona los datos dinámicos en memoria, §9.1) y el inventario de infraestructura (red, copias, registros) que detalla NIST §3.1.1.
