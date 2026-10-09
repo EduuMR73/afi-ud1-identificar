@@ -132,11 +132,11 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 9 | Obtener las claves de BitLocker antes de apagar o desmontar nada | L14 | RFC 3227 §2.2; NIST SP 800-86 §3.2 y §5.2.1 |
 | 10 | Aislar el iPhone de empresa y mantenerlo cargado | L7 | ENFSI §8.2; NIST SP 800-86 §2.1 y §3.1.3 |
 | 11 | Adquirir disco y pendrive con copia bit a bit y bloqueador de escritura | L22, L24 | RFC 3227 §2 y §2.1; NIST SP 800-86 §4.2.1 y §4.2.2 |
-| 12 | Pedir el pendrive de Javier con su consentimiento y acta | L1, L6 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
+| 12 | Pedir el pendrive de Javier con su consentimiento, en bolsa etiquetada y con acta de custodia | L1, L2, L6, L24 | RFC 3227 §2.3, §3.2 y §4.1; ENFSI §9.1; NIST SP 800-86 §3.1.1 y §3.1.2 |
 | 13 | Buscar el USB que falta sin interrogar a Marta | L6 | ENFSI §9.2 y §11.2; NIST SP 800-86 §3.1.1 |
 | 14 | No tocar el móvil personal de Marta y pedir entrega voluntaria | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
 | 15 | Pedir a la administración la conservación de la cámara, sin acceder | L1, L11 | NIST SP 800-86 §3.1.1 |
-| 16 | No explorar la sesión de Outlook ajena | L1, L5 | RFC 3227 §2.3; ENFSI §9.2 |
+| 16 | No explorar la sesión de Outlook ajena: fotografiarla y pedir su cierre solo después | L1, L4, L5, L8, L23 | RFC 3227 §2.3 y §3.2; ENFSI §8.2 y §9.2; NIST SP 800-86 §3.1.2 y §3.1.3 |
 | 17 | Preservar sin leer el buzón y el OneDrive de Marta | L1, L15 | RFC 3227 §2.3; NIST SP 800-86 §3.1.2 |
 | 18 | Impedir que Marta use los equipos y anotar qué dice y qué hace | L3, L8 | ENFSI §8.2; RFC 3227 §3.2; NIST SP 800-86 §3.1.3 |
 | 19 | Parte firmado y hash en cada actuación de Bahía, con cadena de custodia | L23, L24 | RFC 3227 §3.2 y §4.1; NIST SP 800-86 §3.1.2 |
@@ -150,3 +150,4 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 27 | Confirmar por escrito con Elena qué cubre la autorización y tocar los dispositivos personales solo con consentimiento o mandato | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
 | 28 | No desbloquear ni leer el iPhone de empresa: aislarlo ahora y examinarlo después con autorización | L1, L7 | RFC 3227 §2.3; ENFSI §8.2; NIST SP 800-86 §3.1.1 y §3.1.3 |
 | 29 | Conservar tal cual lo que Elena haya recibido de la propuesta de Sevilla, sin reenviarlo ni editarlo | L11, L15 | NIST SP 800-86 §3.1.1 y §3.1.2; RFC 3227 §3.2 |
+| 30 | Suspender el acceso remoto de la cuenta de Marta solo después de asegurar la retención | L15, L20 | RFC 3227 §2.2 y §3.2; NIST SP 800-86 §3.1.2 y §3.1.3 |
