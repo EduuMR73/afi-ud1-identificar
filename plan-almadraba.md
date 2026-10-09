@@ -126,7 +126,7 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 6 | No apagar el portátil | L18 | RFC 3227 §2.2 |
 | 7 | Estado de red primero, luego aislar, luego RAM, discos al final | L19, L20, L21, L22 | RFC 3227 §2.1 y §3.2; NIST SP 800-86 §5.2.1 y §4.2.1 |
 | 8 | Aislar el portátil por MAC y cable de red, sin apagar el router, y preguntar por borrado remoto | L20 | RFC 3227 §2.2; NIST SP 800-86 §3.1.3 |
-| 9 | Obtener las claves de BitLocker antes de apagar o desmontar nada | L14 | RFC 3227 §2.2; NIST SP 800-86 §3.2 |
+| 9 | Obtener las claves de BitLocker antes de apagar o desmontar nada | L14 | RFC 3227 §2.2; NIST SP 800-86 §3.2 y §5.2.1 |
 | 10 | Aislar el iPhone de empresa y mantenerlo cargado | L7 | ENFSI §8.2; NIST SP 800-86 §2.1 y §3.1.3 |
 | 11 | Adquirir disco y pendrive con copia bit a bit y bloqueador de escritura | L22, L24 | RFC 3227 §2 y §2.1; NIST SP 800-86 §4.2.1 y §4.2.2 |
 | 12 | Pedir el pendrive de Javier con su consentimiento y acta | L1, L6 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
