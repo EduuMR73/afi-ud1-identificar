@@ -80,6 +80,7 @@ Cada actuación de Bahía Sistemas se hace con un parte firmado que recoja quié
 
 ### Medidas por fuente
 - **Cortafuegos y VPN.** Llamo ahora a Bahía para que exporten el registro de conexiones completo, incluida la VPN, a un soporte externo, sin cambiar la configuración más de lo imprescindible. Les pido también que detengan la sobrescritura o amplíen la retención mientras dure el caso (L13, L17).
+- **Router y punto de acceso.** Pido a Bahía que exporte qué equipos estuvieron asociados y cuándo (asociaciones Wi-Fi, tabla DHCP), si el equipo lo registra, sin reiniciarlo ni cambiar su configuración (L9, L13).
 - **Impresora multifunción.** Bahía exporta el historial de trabajos. Hasta que lo haga, nadie imprime, escanea ni usa el sobremesa compartido. Son unas horas de molestia que se aceptan frente al riesgo de perder el historial (L17, L20).
 - **Cámara del pasillo.** Elena escribe hoy a la administración de la comunidad pidiendo que conserven, sin borrar, las grabaciones del día 14 y de los días anteriores que aún existan, sobre todo la tarde hasta cerca de las 19 h. No pedimos verlas, solo que no se pierdan. Lo demás lo decide la administración (L11, L17).
 - **NAS.** Bahía suspende la rotación de copias o separa las existentes en un soporte aparte, sin modificar su contenido (L12, L17).
@@ -90,12 +91,14 @@ Cada actuación de Bahía Sistemas se hace con un parte firmado que recoja quié
   - *Sin acceso.* No se fuerza ni se prueban contraseñas. Se aísla, se mantiene encendido y con corriente, y se escala a un perito externo, documentando la decisión.
   - *Aislamiento.* Desconecto el cable de red del dock y pido a Bahía que bloquee el portátil en el router o punto de acceso por su dirección MAC. Así se corta el Wi-Fi sin tocar el equipo y sin dejar a la oficina sin red. Antes pregunto a Bahía si hay alguna política de borrado o bloqueo remoto que pueda dispararse, y les pido que no envíen ninguna orden remota (bloqueo, borrado, reinicio) (L20).
 - **iPhone de empresa.** No lo desbloqueo ni lo apago. Lo aíslo en bolsa Faraday con batería externa o, si ya estuviera desbloqueado, en modo avión, para que no se agote. Bahía confirma que no hay una orden de borrado remoto pendiente. Se etiqueta y se registra (L7, L24).
+- **iCloud del iPhone de empresa.** Averiguo con Elena y Bahía si el Apple ID es de la empresa y si hay copia en iCloud. No entro en la cuenta: solo pido que se conserve y que no se borre ni se cambie nada (L11, L15).
 - **Disco externo de 2 TB.** Sigue conectado al dock hasta terminar la captura en vivo, porque desconectarlo ahora cambiaría el estado del equipo. Después se desconecta correctamente, se etiqueta y se adquiere con bloqueador de escritura. Primero confirmo de quién es (L22, L24).
 - **Pendrive de Javier.** Se lo pido a Javier con su consentimiento, sin conectarlo a ningún equipo. Se entrega en bolsa etiquetada con acta de entrega firmada y se anota si lo ha usado desde entonces. Se adquiere con bloqueador de escritura (L1, L22, L24).
 - **USB que falta.** No interrogo a Marta. Miro lo que está a la vista en su puesto y en las papeleras comunes, sin abrir cajones ni bolsos. La petición del pendrive original se incluye en el escrito formal de Elena. Además, una vez adquirido el portátil, el historial de dispositivos USB conectados permitirá identificar modelo y número de serie (L6).
 - **Servidor de ficheros.** No se apaga. Bahía confirma si registra accesos a ficheros y preserva esos registros. La copia completa se hace después, con calma (L13, L18).
 - **Sobremesa compartido.** Fotografío la sesión de Outlook ajena sin tocar nada. Después Elena pide a su titular que la cierre, porque su correo está expuesto (L4).
 - **Marta.** Elena le explica con educación que hoy no podrá usar el portátil ni las cuentas de la empresa porque se están revisando los equipos, sin entrar en más detalles. Puede irse a casa y llevarse su bolso y su móvil. Anoto hora, qué dice y qué hace (L8). No se le pide ni se le revisa nada personal.
+- **Testimonios.** Dejo por escrito, con fecha y hora, lo que cuentan Javier (el día 14 y el pendrive), la compañera del Outlook y el técnico de Bahía, y qué vieron y qué hicieron (L8).
 
 ## 4. Los límites
 
