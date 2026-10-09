@@ -28,6 +28,6 @@ Herramienta de trabajo para una escena real de identificación y preservación. 
 - [ ] **19.** En cada equipo encendido, capturar primero el estado de red: conexiones activas, caché ARP y tabla de rutas. *(RFC 3227 §2.1; NIST SP 800-86 §5.2.1)*
 - [ ] **20.** Tras capturar el estado de red, retirar las vías externas de alteración del equipo (cable de red, Wi-Fi), teniendo presente que desconectar puede activar mecanismos de borrado y valorando el impacto en el resto de la oficina. *(RFC 3227 §2.2 y §3.2; NIST SP 800-86 §3.1.3)*
 - [ ] **21.** Capturar a continuación la memoria (RAM) y los procesos con herramientas desde un soporte protegido, sin instalar nada en el equipo. *(RFC 3227 §2.1, §2.2 y §5; NIST SP 800-86 §5.2.1)*
-- [ ] **22.** Dejar para el final los discos y soportes persistentes, adquiridos mediante copia bit a bit y trabajando solo sobre la copia. *(RFC 3227 §2.1; NIST SP 800-86 §4.2.1)*
+- [ ] **22.** Dejar para el final los discos y soportes persistentes, adquiridos mediante copia bit a bit con bloqueador de escritura y trabajando solo sobre la copia. *(RFC 3227 §2 y §2.1; NIST SP 800-86 §4.2.1 y §4.2.2)*
 - [ ] **23.** Llevar un registro detallado, con fecha y hora, de cada comando y cada decisión, indicando la diferencia entre el reloj del sistema y UTC. *(RFC 3227 §2 y §3.2; NIST SP 800-86 §3.1.2)*
 - [ ] **24.** Calcular el hash de cada adquisición, etiquetar cada elemento y documentar la cadena de custodia: quién, cuándo, dónde y cómo se guarda. *(NIST SP 800-86 §3.1.2; RFC 3227 §3.2 y §4.1)*
