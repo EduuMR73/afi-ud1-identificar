@@ -18,7 +18,7 @@ Herramienta de trabajo para una escena real de identificación y preservación. 
 - [ ] **11.** Preguntar a TI y a la gerencia por las fuentes fuera de la oficina (nube, VPN, correo, administración del edificio) y por quién es el propietario de cada una. *(NIST SP 800-86 §3.1.1)*
 - [ ] **12.** Preguntar por las copias de seguridad: qué se copia, con qué frecuencia y cuánto tiempo se conservan. *(NIST SP 800-86 §3.1.1 y §2.4.3)*
 - [ ] **13.** Preguntar qué sistemas generan registros (cortafuegos, VPN, impresoras, cámaras, auditoría de correo y nube) y cuánto tiempo los conservan antes de sobrescribirlos. *(NIST SP 800-86 §3.1.2, §6.2.1 y §6.2.4)*
-- [ ] **14.** Comprobar si los equipos usan cifrado (BitLocker, FileVault) y dónde están las claves de recuperación antes de decidir apagar o desmontar nada. *(RFC 3227 §2.2; NIST SP 800-86 §3.2)*
+- [ ] **14.** Comprobar si los equipos usan cifrado (BitLocker, FileVault) y dónde están las claves de recuperación antes de decidir apagar o desmontar nada. *(RFC 3227 §2.2; NIST SP 800-86 §3.2 y §5.2.1)*
 
 ## 3. Al decidir qué se adquiere y en qué orden
 - [ ] **15.** Decidir, con la gerencia, si la evidencia debe poder usarse en un proceso legal o disciplinario. Ante la duda, preservar. *(NIST SP 800-86 §3.1.2; RFC 3227 §3.2)*
