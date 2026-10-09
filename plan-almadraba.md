@@ -145,3 +145,5 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 24 | Averiguar quién controla el iCloud del iPhone y pedir que se conserve, sin entrar en la cuenta | L11, L15 | NIST SP 800-86 §3.1.1 y §3.1.2 |
 | 25 | No registrar el bolso, los cajones ni los equipos de casa de Marta, ni contactar con terceros externos | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
 | 26 | Pedir al router y al punto de acceso el registro de equipos conectados | L9, L13 | RFC 3227 §2.1; NIST SP 800-86 §3.1.1 y §6.2.1 |
+| 27 | Confirmar por escrito con Elena qué cubre la autorización y tocar los dispositivos personales solo con consentimiento o mandato | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
+| 28 | No desbloquear ni leer el iPhone de empresa: aislarlo ahora y examinarlo después con autorización | L1, L7 | RFC 3227 §2.3; ENFSI §8.2; NIST SP 800-86 §3.1.1 y §3.1.3 |
