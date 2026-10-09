@@ -137,3 +137,10 @@ Esto es lo que no toco, o no todavía, y qué hago en su lugar. Las referencias 
 | 17 | Preservar sin leer el buzón y el OneDrive de Marta | L1, L15 | RFC 3227 §2.3; NIST SP 800-86 §3.1.2 |
 | 18 | Impedir que Marta use los equipos y anotar qué dice y qué hace | L3, L8 | ENFSI §8.2; RFC 3227 §3.2; NIST SP 800-86 §3.1.3 |
 | 19 | Parte firmado y hash en cada actuación de Bahía, con cadena de custodia | L23, L24 | RFC 3227 §3.2 y §4.1; NIST SP 800-86 §3.1.2 |
+| 20 | Dejar el disco de 2 TB conectado hasta terminar la captura en vivo y confirmar de quién es antes de adquirirlo | L1, L18, L22 | RFC 3227 §2.2 y §2.3; NIST SP 800-86 §3.1.1 |
+| 21 | Pedir las credenciales del portátil por vía formal y, si no se obtienen, no forzar el acceso y escalar a un perito | L1, L15 | RFC 3227 §2.3 y §3.2; NIST SP 800-86 §3.1.2 |
+| 22 | No apagar el servidor de ficheros y preservar sus registros de acceso | L13, L18 | RFC 3227 §2.2; NIST SP 800-86 §3.1.2 |
+| 23 | Dejar por escrito lo que cuentan Javier, la compañera del Outlook y el técnico de Bahía | L8 | RFC 3227 §3.2 |
+| 24 | Averiguar quién controla el iCloud del iPhone y pedir que se conserve, sin entrar en la cuenta | L11, L15 | NIST SP 800-86 §3.1.1 y §3.1.2 |
+| 25 | No registrar el bolso, los cajones ni los equipos de casa de Marta, ni contactar con terceros externos | L1 | RFC 3227 §2.3; NIST SP 800-86 §3.1.1 |
+| 26 | Pedir al router y al punto de acceso el registro de equipos conectados | L9, L13 | RFC 3227 §2.1; NIST SP 800-86 §3.1.1 y §6.2.1 |
