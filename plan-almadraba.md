@@ -39,6 +39,7 @@ Inventario por ubicación, con quién controla cada fuente, porque eso condicion
 | NAS de copias de seguridad (cuartito) | 14 copias nocturnas: el estado de los ficheros antes y después del día 14 | Empresa, gestiona Bahía |
 | Impresora multifunción | Historial de trabajos y escaneos enviados al correo de quien los usa | Empresa |
 | Cortafuegos y VPN | Registro de conexiones, incluidas las de los viernes en teletrabajo | Empresa, gestiona Bahía |
+| Router, switches y punto de acceso Wi-Fi | Qué equipos estuvieron conectados y cuándo (asociaciones Wi-Fi, tabla DHCP), si el equipo lo registra | Empresa, gestiona Bahía |
 
 ### Nube y terceros
 
